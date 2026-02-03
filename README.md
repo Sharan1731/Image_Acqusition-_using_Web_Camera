@@ -39,8 +39,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** VIRUMAA HARISH M
-- **Register Number:** 212223230246
+- **Name:** SHARAN G
+- **Register Number:** 212223230203
 
   ### Ex. No. 01
 
@@ -325,80 +325,8 @@ plt.show()
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
 
-## Software Used
-Anaconda - Python 3.7
-## Algorithm
-### Step 1:
-<br>
-
-### Step 2:
-<br>
-
-### Step 3:
-<br>
-
-### Step 4:
-<br>
-
-### Step 5:
-<br>
-
-## Program:
-``` Python
-### Developed By:
-### Register No:
-
-## i) Write the frame as JPG file
-
-
-
-
-## ii) Display the video
-
-
-
-
-## iii) Display the video by resizing the window
-
-
-
-
-## iv) Rotate and display the video
 
 
 
 
 
-
-
-
-
-```
-## Output
-
-### i) Write the frame as JPG image
-</br>
-</br>
-
-
-### ii) Display the video
-</br>
-</br>
-
-
-### iii) Display the video by resizing the window
-</br>
-</br>
-
-
-
-### iv) Rotate and display the video
-</br>
-</br>
-
-
-
-
-
-## Result:
-Thus the image is accessed from webcamera and displayed using openCV.

@@ -6,7 +6,7 @@ i) Write the frame as JPG
 ii) Display the video 
 iii) Display the video by resizing the window
 iv) Rotate and display the video
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# Image-Handling-and-Pixel-Transformations-Using-OpenCV
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
